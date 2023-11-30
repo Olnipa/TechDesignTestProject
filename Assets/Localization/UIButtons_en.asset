@@ -22,6 +22,10 @@ MonoBehaviour:
     m_Localized: Turn On The Light
     m_Metadata:
       m_Items: []
+  - m_Id: 10927540465664
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

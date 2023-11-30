@@ -19,6 +19,10 @@ MonoBehaviour:
     m_Key: 1_snowy_scene/Canvas/Button/Text (TMP)
     m_Metadata:
       m_Items: []
+  - m_Id: 10927540465664
+    m_Key: 1_snowy_scene/Static Objects/Background/Air/moon
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
