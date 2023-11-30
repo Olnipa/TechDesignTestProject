@@ -62,15 +62,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.5019608}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: f2da9bfb4eae27442bd6fd3cc0af072b, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -265,7 +265,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 13.223167, y: 10.578503, z: 14.545464, w: 5.289261}
+  m_margin: {x: 13.223167, y: 10.578503, z: 14.545464, w: 11.475937}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -327,10 +327,10 @@ MonoBehaviour:
           value: 33.5
         - localeIdentifier:
             m_Code: fr
-          value: 33
+          value: 33.65
         - localeIdentifier:
             m_Code: ru
-          value: 40.7
+          value: 36.9
     - rid: 782101999175073801
       type: {class: BoolTrackedProperty, ns: UnityEngine.Localization.PropertyVariants.TrackedProperties, asm: Unity.Localization}
       data:
@@ -375,6 +375,9 @@ MonoBehaviour:
         - localeIdentifier:
             m_Code: fr
           value: 11.66011
+        - localeIdentifier:
+            m_Code: ru
+          value: 28.241234
     - rid: 782101999175073805
       type: {class: FloatTrackedProperty, ns: UnityEngine.Localization.PropertyVariants.TrackedProperties, asm: Unity.Localization}
       data:
@@ -385,7 +388,10 @@ MonoBehaviour:
           value: 13.223167
         - localeIdentifier:
             m_Code: fr
-          value: 17.490128
+          value: 12.540728
+        - localeIdentifier:
+            m_Code: ru
+          value: 24.359219
     - rid: 782101999175073806
       type: {class: FloatTrackedProperty, ns: UnityEngine.Localization.PropertyVariants.TrackedProperties, asm: Unity.Localization}
       data:
@@ -393,10 +399,13 @@ MonoBehaviour:
         m_VariantData:
         - localeIdentifier:
             m_Code: en
-          value: 17.190075
+          value: 7.909979
         - localeIdentifier:
             m_Code: fr
-          value: 12.631789
+          value: 6.4450836
+        - localeIdentifier:
+            m_Code: ru
+          value: 11.622015
     - rid: 782101999175073807
       type: {class: FloatTrackedProperty, ns: UnityEngine.Localization.PropertyVariants.TrackedProperties, asm: Unity.Localization}
       data:
@@ -404,7 +413,10 @@ MonoBehaviour:
         m_VariantData:
         - localeIdentifier:
             m_Code: en
-          value: 10.578512
+          value: 14.290516
         - localeIdentifier:
             m_Code: fr
-          value: 8.745094
+          value: 9.9824295
+        - localeIdentifier:
+            m_Code: ru
+          value: 21.095879
