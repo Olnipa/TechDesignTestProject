@@ -58,7 +58,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: tree_shake_controller
+  m_Name: tree_controller
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: Shaking
@@ -125,10 +125,10 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -7904688973450367493}
-    m_Position: {x: 400, y: 140, z: 0}
+    m_Position: {x: 390, y: 40, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 6452591219017477865}
-    m_Position: {x: 387, y: 54, z: 0}
+    m_Position: {x: 390, y: 110, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -195,7 +195,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: TreeIdleAnimation
+  m_Name: TreeAnimation
   m_Speed: 0.25
   m_CycleOffset: 0
   m_Transitions: []
