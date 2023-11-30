@@ -2,7 +2,7 @@
 
 public class BootStrap : MonoBehaviour
 {
-    [SerializeField] private SceneSwitchDetector _sceneSwitchDetector;
+    [SerializeField] private SceneSwitcherRevealler _sceneSwitchDetector;
 
     [SerializeField] private SceneSwitcher _sceneSwitcher;
     //private CompositeDisposable _compositeDisposable;

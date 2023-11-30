@@ -5,7 +5,7 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Button))]
 public class SceneSwitcher : MonoBehaviour
 {
-    private SceneSwitchDetector _sceneSwitchDetector;
+    private SceneSwitcherRevealler _sceneSwitchDetector;
     private Button _nextSceneButton;
     private string _nextSceneName;
 
@@ -20,7 +20,7 @@ public class SceneSwitcher : MonoBehaviour
         _sceneSwitchDetector.SceneSwitcherClicked -= Activate;
     }
 
-    public void Initialize(SceneSwitchDetector sceneSwitchDetector)
+    public void Initialize(SceneSwitcherRevealler sceneSwitchDetector)
     {
         _sceneSwitchDetector = sceneSwitchDetector;
         _nextSceneButton = GetComponent<Button>();
