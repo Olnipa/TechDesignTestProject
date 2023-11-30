@@ -19,7 +19,11 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 216756056064
-    m_Localized: "Allume la lumi\xE8re"
+    m_Localized: "Allumez les lumi\xE8res allum\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 193567694450688
+    m_Localized: "\xC9teindre les lumi\xE8res"
     m_Metadata:
       m_Items: []
   references:

@@ -46,7 +46,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 5c7496cc1dc4bec47bfb4aaa0f02cbff, type: 2}
+  m_Motion: {fileID: 7400000, guid: d101d61cf49bbce47a9db604fbeebbd0, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -59,7 +59,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: tree_idle_animation
+  m_Name: snowy_tree_idle_animation
   m_Speed: 0.25
   m_CycleOffset: 0
   m_Transitions: []
@@ -72,7 +72,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 875a39cadb41462409e8ab0bade06bfb, type: 2}
+  m_Motion: {fileID: 7400000, guid: 5d02abfd0c15a824eb038c219a040c04, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
