@@ -1,5 +1,5 @@
-# Test task for Elephant Games, vacancy Junior Technical Designer (Unity, C#)
-# (Тестовое задание для Elephant Games, вакансия Junior Technical Designer (Unity, C#))
+# Test task for Elephant Games, vacancy Technical Designer (Unity, C#)
+# (Тестовое задание для Elephant Games, вакансия Technical Designer (Unity, C#))
 
 The project was completed in Unity version 2021.3.15f1 (Проект выполнен в Unity версии 2021.3.15f1)
 
